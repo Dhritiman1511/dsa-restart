@@ -8,3 +8,9 @@
 
 5. Add two numbers represented by two arrays```https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-two-arrays2408/0```
 
+6. Factorial of Large Numbers ```https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1```
+
+7. Peak Index in Mountain Array ```https://leetcode.com/problems/peak-index-in-a-mountain-array/```
+
+8. Search In Rotated Sorted Array ```https://leetcode.com/problems/search-in-rotated-sorted-array/```
+
