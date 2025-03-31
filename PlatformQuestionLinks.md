@@ -14,3 +14,7 @@
 
 8. Search In Rotated Sorted Array ```https://leetcode.com/problems/search-in-rotated-sorted-array/```
 
+9. K-different Pairs In an Array ```https://leetcode.com/problems/k-diff-pairs-in-an-array/```
+
+10. Find K closest Elements ```https://leetcode.com/problems/find-k-closest-elements/description/```
+
