@@ -18,3 +18,7 @@
 
 10. Find K closest Elements ```https://leetcode.com/problems/find-k-closest-elements/description/```
 
+11. Allocate minimum pages ```https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1```
+
+12. Painter's Partition Problem- II ```https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1```
+
