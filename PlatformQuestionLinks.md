@@ -22,3 +22,11 @@
 
 12. Painter's Partition Problem- II ```https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1```
 
+13. Aggressive Cows ```https://www.geeksforgeeks.org/problems/aggressive-cows/0```
+
+14. Remove All adjacent dupicates in String ```https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/```
+
+15. Remove all occurrences of a Substring ```https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/```
+
+16. Valid Palindrome II ```https://leetcode.com/problems/valid-palindrome-ii/description/```
+
