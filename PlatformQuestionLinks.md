@@ -30,3 +30,9 @@
 
 16. Valid Palindrome II ```https://leetcode.com/problems/valid-palindrome-ii/description/```
 
+17. Minimum Time Difference ```https://leetcode.com/problems/minimum-time-difference/description/```
+
+18. Palindromic Substrings ```https://leetcode.com/problems/palindromic-substrings/description/```
+
+19. Valid Anagram ```https://leetcode.com/problems/valid-anagram/```
+
