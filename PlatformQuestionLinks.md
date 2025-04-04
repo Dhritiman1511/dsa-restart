@@ -36,3 +36,9 @@
 
 19. Valid Anagram ```https://leetcode.com/problems/valid-anagram/```
 
+20. Reverse Only Letters ```https://leetcode.com/problems/reverse-only-letters/description/```
+
+21. Longest Common Prefix ```https://leetcode.com/problems/longest-common-prefix/description/```
+
+22. Reverse Vowels of a String ```https://leetcode.com/problems/reverse-vowels-of-a-string/description/```
+
