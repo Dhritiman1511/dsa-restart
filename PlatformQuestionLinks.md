@@ -42,3 +42,9 @@
 
 22. Reverse Vowels of a String ```https://leetcode.com/problems/reverse-vowels-of-a-string/description/```
 
+23. Isomorphic Strings ```https://leetcode.com/problems/isomorphic-strings/description/```
+
+24. Reorganizing Strings ```https://leetcode.com/problems/reorganize-string/```
+
+25. Group Anagrams ```https://leetcode.com/problems/group-anagrams/```
+
