@@ -48,3 +48,9 @@
 
 25. Group Anagrams ```https://leetcode.com/problems/group-anagrams/```
 
+26. Longest Palindromic Substring ```https://leetcode.com/problems/longest-palindromic-substring/description/```
+
+27. Find the Index of the First Occurrence in a String ```https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/```
+
+28. String to Integer (atoi) ```https://leetcode.com/problems/string-to-integer-atoi/description/```
+
