@@ -54,3 +54,9 @@
 
 28. String to Integer (atoi) ```https://leetcode.com/problems/string-to-integer-atoi/description/```
 
+29. String Compression ```https://leetcode.com/problems/string-compression/description/```
+
+30. Integer to Roman ```https://leetcode.com/problems/integer-to-roman/description/```
+
+31. ZigZag Conversion ```https://leetcode.com/problems/zigzag-conversion/```
+
