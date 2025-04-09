@@ -60,3 +60,9 @@
 
 31. ZigZag Conversion ```https://leetcode.com/problems/zigzag-conversion/```
 
+32. Largest Number ```https://leetcode.com/problems/largest-number/description/```
+
+33. Count Primes ```https://leetcode.com/problems/count-primes/description/```
+
+34. GCD of 2 numbers ``https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1``
+
