@@ -66,3 +66,6 @@
 
 34. GCD of 2 numbers ``https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1``
 
+35. Modular Exponentiation for large numbers ``https://www.geeksforgeeks.org/problems/modular-exponentiation-for-large-numbers5537/1``
+
+36. Product of Primes ``https://www.geeksforgeeks.org/problems/product-of-primes5328/1``
