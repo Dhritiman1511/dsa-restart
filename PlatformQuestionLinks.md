@@ -72,3 +72,5 @@
 
 37. Add Strings (using recursion) ``https://leetcode.com/problems/add-strings/``
 
+38. Remove All Occurances of a Substring (using recursion) ``https://leetcode.com/problems/remove-all-occurrences-of-a-substring/``
+
