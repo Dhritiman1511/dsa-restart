@@ -82,3 +82,7 @@
 
 42. Wildcard Matching (recursive solution (TLE))``https://leetcode.com/problems/wildcard-matching/description/``
 
+43. Perfect Squares (recursive solution (TLE))``https://leetcode.com/problems/perfect-squares/``
+
+44. Minimum cost for Tickets (recursive solution (TLE)) ``https://leetcode.com/problems/minimum-cost-for-tickets/``
+
