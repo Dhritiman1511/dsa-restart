@@ -86,3 +86,5 @@
 
 44. Minimum cost for Tickets (recursive solution (TLE)) ``https://leetcode.com/problems/minimum-cost-for-tickets/``
 
+45. Number of Dice Rolls With Target Sum (recursive solution (TLE))``https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/``
+
