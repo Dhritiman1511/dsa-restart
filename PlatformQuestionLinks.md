@@ -88,3 +88,5 @@
 
 45. Number of Dice Rolls With Target Sum (recursive solution (TLE))``https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/``
 
+46. Rat in Maze Problem-I ``https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1&selectedLang=python3``
+
